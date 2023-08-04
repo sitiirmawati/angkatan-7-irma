@@ -1,0 +1,218 @@
+.Iphone141{
+    width: 700px;
+    height: 1153px;
+    position: relative;
+    background: #1893f5;
+}
+
+
+.Rectengle5{
+    width: 272px;
+    height: 36px;
+    left: 471px;
+    top: 866px;
+    position: absolute;
+    background: #0FF4E7;
+    border-radius: 34px;
+}
+
+
+.Rectangle1{
+    width: 400px;
+    height: 162px;
+    left: 50px;
+    top: 104px;
+    position: absolute;
+    background: #0DFAE7;
+    border-radius: 18px;
+    border: 0.50px;
+    color: black solid;
+}  
+
+
+.MyBiodata{
+    width: 170px;
+    height: 64px;
+    left: 55px;
+    top: 114px;
+    position:absolute;
+    color: #101010;
+    font-size: 25px;
+    font-family: playfair display;
+    font-style: italic;
+    font-weight: 400px;
+    text-decoration: underline;
+    word-wrap: break-word;
+}
+
+
+.NamaLengkapSitiIrmawatiNamaPanggilanIrmaTempatTanggalLahirJember01Desember2005Usia17Tahun{
+    left: 50px;
+    top: 156px;
+    position: absolute;
+    color: #101010;
+    font-size: 20px;
+    font-family: Playfair Display;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+.Rectangle2{
+    width: 386px;
+    height: 166px;
+    left: 244px;
+    top: 277px;
+    position: absolute;
+    background: #0B48DE;
+    border-radius: 19px;
+}
+
+
+.RiwayatSekolah{
+    left: 250px;
+    top: 282px;
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    font-family: playfair display;
+    font-style: italic;
+    font-weight: 600;
+    text-decoration: underline;
+    word-wrap: break-word;
+}
+
+
+.RARaudlatulAthfalMIRaudlatulUlumMTSRadlatulUlumSMKRaudlatulUlum{
+    width: 400px;
+    height: 200px;
+    left: 250px;
+    top: 303px;
+    position:absolute;
+    font-size: 23px;
+    
+}
+
+
+.Rectangle3{
+    width: 525px;
+    height: 250px;
+    left: 50px;
+    top: 450px;
+    position: absolute;
+    background: rgba(11, 182, 222, 0.87);
+    border-radius: 20px;
+}
+
+.Rectangle4{
+    width: 357px; 
+    height: 250px; 
+    background: #0D1BB4; 
+    border-radius: 25px;
+    top: 707px;
+    position: absolute;
+}
+
+.PernahMendapatkanJuara2DiperlombaanMenggambarTingkatKecamatanPernahMendapatkanPiagamMewarnaiTingkatKecamatanPernahMendapatkanSertifikatKelulusanSyajdahDikompetisiUstdzahTingkatKabupaten{
+    width: 436px;
+    height: 500px;
+    left: 55px;
+    top: 550px;
+    position: absolute;
+    color: #101010;
+    font-size: 20px;
+    font-family: josefin sans;
+    font-weight: 700;
+    word-wrap:600px;
+}
+
+
+.Prestasi{
+    left: 57px;
+    top: 450px;
+    position:absolute;
+    text-align: center;
+    color: black;
+    font-size: 32px;
+    font-family: Playfair Display;
+    font-style: italic;
+    font-weight: 600;
+    text-decoration: underline;
+    word-wrap: break-word;
+}  
+
+
+.Hoby{
+    left: 20px;
+    top: 737px;
+    position: absolute;
+    text-align: center;
+    color:white;
+    font-size: 32px;
+    font-family: playfair display;
+    font-style: italic;
+    font-weight: 600;
+    text-decoration: underline;
+    word-wrap: break-word;
+}
+
+
+.MenyanyiMemasakMembacaNovelDalamBentukBukuMaupunBentukHandphonBerkebunNgehalu{
+    width: 232px;
+    left: 45px;
+    top: 790px;
+    position: absolute;
+    color: White;
+    font-size: 20px;
+    font-family: josefin sans;
+    font-style: italic;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+
+.FotoirmaN1{
+    width: 140px;
+    height: 200px;
+    left: 521px;
+    top: 62px;
+    position: absolute;
+    border-radius: 26px;
+}
+
+
+.MySelf{
+    left:150px;
+    top: 15px;
+    position: absolute;
+}
+
+
+.MySelf span {
+    color: white;
+    font-size: 45px;
+    font-family: playfair display;
+    font-style: italic;
+    font-weight: 700;
+    word-wrap: break-word;
+
+}
+
+
+.Whatapp085784566055{
+    left: 789px;
+    top: 875px;
+    position: absolute;
+
+}
+
+
+.Whatapp085784566055{
+    color: black;
+    font-size: 20px;
+    font-family: josefin sans;
+    font-style: italic;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
